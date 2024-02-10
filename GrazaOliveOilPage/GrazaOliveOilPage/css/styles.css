@@ -1,0 +1,14 @@
+/* Custom CSS for elements not covered by Tailwind */
+.carousel {
+    /* Custom styles for carousel if needed */
+}
+
+.quantity-selector {
+    /* Custom styles for quantity selector */
+}
+
+.accordion {
+    /* Custom styles for accordion component */
+}
+
+/* Add more custom styles as needed */
